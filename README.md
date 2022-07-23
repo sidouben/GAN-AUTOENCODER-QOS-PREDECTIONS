@@ -2,12 +2,12 @@
 
 ## Requirements
 
-*Python 3.6   
-*numpy 1.18.1    
-*pandas 1.0.1   
-*tensorflow 2.0.0   
-*tqdm 4.42.1     
-*Keras 2.3.1     
+* Python 3.6   
+* numpy 1.18.1    
+* pandas 1.0.1   
+* tensorflow 2.0.0   
+* tqdm 4.42.1     
+* Keras 2.3.1     
 
 
 ## Dataset
